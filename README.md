@@ -29,7 +29,8 @@ Jupyter Notebook Contents:
   
   v.   Checking data imbalance
   
-  
+
+
 2.    K-Means Clustering with Monte-Carlo Simulation
 
 
