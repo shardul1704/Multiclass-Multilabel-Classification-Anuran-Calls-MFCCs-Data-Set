@@ -33,5 +33,6 @@ Jupyter Notebook Contents:
 
 2.    K-Means Clustering with Monte-Carlo Simulation
 
+Skills - Data Science, Machine Learning, SVMs, K-means Clustering
 
 -----------------------------THANK YOU-----------------------------
